@@ -10,7 +10,10 @@ Prepared by Matthew Cengia
 License: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Note:
-Hi everyone, my name's Matt, my pronouns are he, him, and his, and I'm here to give a quick introduction to Docker and Swarm. If you'd like to find me later, you can reach me as mattcen (that's M A T T C E N) on either Twitter, the aus.social Mastodon instance, or matrix.org, as well as my email, mattcen@mattcen.com. Also, please feel free to tweet about this talk using the #lca2021 and #dockerintro hash tags.
+* I'm Matt (he/him)
+* Find my by handle, M A T T C E N
+* Tweet about talk with #lca2021 and #dockerintro
+* Slides & examples available on GitHub
 
 ---
 
